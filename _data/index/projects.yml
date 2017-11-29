@@ -17,7 +17,7 @@
 
 - name: Watt's six-bar walking mechanism
   i18n: watt-six-bar
-  ghuser: kenaycock
+  gh_user: kenaycock
   repo: Six-Bar-Walking-Mechanism
   img: /static/assets/img/landing/watt-six-bar.png
   desc: Optimized linkage lengths for six-bar walking mechanism
