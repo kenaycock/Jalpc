@@ -2,6 +2,6 @@
 
 label: Ability
 id : cs
-aspects: CFD, FEA, MMS, PIV, DIC, Python, Shell (bash)
-percentage: 50, 50, 50, 50, 50, 50, 50
+aspects: CFD, FEA, MMS, PIV, DIC, Python, Shell (bash), HPC, Blender
+percentage: 50, 50, 50, 50, 50, 50, 50, 50, 50
 # ^ Update
