@@ -4,7 +4,7 @@
     detail: US Food and Drug Administration (ORAU)
     i18n: company_a
   desc:
-    detail: ...
+    detail: CDRH Office of Science and Engineering Laboratories, Division of Applied Mechanics
     i18n: company_a_desc
   date:
     detail: Oct. 2016—Present
@@ -18,7 +18,7 @@
     detail: Penn State Applied Research Lab & Artificial Heart Lab
     i18n: company_b
   desc:
-    detail: ...
+    detail: Studied continuum mechanics (computational and experimental solid and fluid mechanics)
     i18n: company_b_desc
   date:
     detail: Aug. 2012—Sep. 2016
