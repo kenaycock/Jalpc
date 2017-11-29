@@ -4,10 +4,10 @@
     detail: ORISE Fellow @ US Food and Drug Administration
     i18n: company_a
   desc:
-    detail: . . .
+    detail:
     i18n: company_a_desc
   date:
-    detail: Oct. 2016--Present
+    detail: Oct. 2016—Present
     i18n: company_a_date
   job:
     detail: . . .
@@ -18,12 +18,26 @@
     detail: Graduate Research Assistant @ Penn State Applied Research Lab & Artificial Heart Lab
     i18n: company_b
   desc:
-    detail: ...
+    detail:
     i18n: company_b_desc
   date:
-    detail: Aug. 2012--Sep. 2016
+    detail: Aug. 2012—Sep. 2016
     i18n: company_b_date
   job:
     detail: . . .
     i18n: company_b_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: Summer Intern @ Idaho National Laboratory
+    i18n: company_b
+  desc:
+    detail:
+    i18n: company_b_desc
+  date:
+    detail: May—Aug. 2011 & 2012
+    i18n: company_b_date
+  job:
+    detail:
+    i18n: company_c_job
   icon: fa-plus-square
