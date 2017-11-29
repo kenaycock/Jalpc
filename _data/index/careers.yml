@@ -10,7 +10,7 @@
     detail: Oct. 2016—Present
     i18n: company_a_date
   job:
-    detail: . . .
+    detail: 
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -24,19 +24,19 @@
     detail: Aug. 2012—Sep. 2016
     i18n: company_b_date
   job:
-    detail: . . .
+    detail: 
     i18n: company_b_job
   icon: fa-plus-square
   
   - name:
-    detail: Summer Intern @ Idaho National Laboratory
-    i18n: company_b
+    detail: Idaho National Laboratory
+    i18n: company_c
   desc:
-    detail:
-    i18n: company_b_desc
+    detail: Intern with Bioenergy Research Group
+    i18n: company_c_desc
   date:
     detail: May—Aug. 2011 & 2012
-    i18n: company_b_date
+    i18n: company_c_date
   job:
     detail:
     i18n: company_c_job
