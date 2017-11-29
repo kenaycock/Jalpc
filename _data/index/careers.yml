@@ -27,3 +27,17 @@
     detail: Graduate Research Assistant
     i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: Idaho National Laboratory
+    i18n: company_c
+  desc:
+    detail: Bioenergy Research Program
+    i18n: company_c_desc
+  date:
+    detail: May—Aug. 2011 & 2012
+    i18n: company_b_date
+  job:
+    detail: Summer Engineering Intern
+    i18n: company_c_job
+  icon: fa-plus-square
