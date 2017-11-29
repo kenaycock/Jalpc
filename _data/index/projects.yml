@@ -6,19 +6,18 @@
   gh_user: kenaycock
   repo: Generic-IVC-Filter
   img: /static/assets/img/landing/generic-IVC-filter.png
-  desc: (placeholder)
+  desc: Design of a generic IVC filter
 
 - name: Two-way coupled fictitious domain solver (CFDEMcoupling)
   i18n: cfdemSolverIB-mod
   gh_user: kenaycock
   repo: CFDEMcoupling-PUBLIC
   img: /static/assets/img/landing/IVC-blood-clot.png
-  desc: (placeholder)
+  desc: Customized OpenFOAM/CFDEM solver with two-way rotation coupling
 
 - name: Watt's six-bar walking mechanism
   i18n: watt-six-bar
   ghuser: kenaycock
   repo: Six-Bar-Walking-Mechanism
-  url: https://google.com
   img: /static/assets/img/landing/watt-six-bar.png
-  desc: (placeholder)
+  desc: Optimized linkage lengths for six-bar walking mechanism
