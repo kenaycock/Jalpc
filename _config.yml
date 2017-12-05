@@ -27,8 +27,8 @@ author:  # change following line to your infomation.
     - name: icon-python
     - name: fa-linux
   skill_icon2:
-    - name: fa-linux
-    - name: icon-python
+    - name: icon-cplusplus # icon-cplusplus?
+    - name: icon-script # icon-script
   desc: PhD engineer with a love for tricky problems and open source solutions # Describe yourself.
 
 # comment
