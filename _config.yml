@@ -30,7 +30,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-cplusplus # icon-cplusplus?
     - name: icon-script # icon-script
-  desc: An engineer with a love for tricky problems and open source solutions # Describe yourself.
+  desc: An engineer with a love for tricky problems and open-source solutions # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
