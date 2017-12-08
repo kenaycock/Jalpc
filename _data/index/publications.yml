@@ -4,7 +4,7 @@
     detail: Particle image velocimetry measurements in an anatomical vascular model fabricated using inkjet 3D printing (2017)
     i18n: company_a
   authors:
-    detail: Aycock, K. I., Hariharan, P., and Craven, B. A.
+    detail: "<b>Aycock, K. I.</b>, Hariharan, P., and Craven, B. A."
     i18n: company_a_authors
   issue:
     detail: "<i>Exp Fluids.</i> 58(154)."
@@ -18,13 +18,13 @@
     detail: Computational predictions of the embolus-trapping performance of an IVC filter in patient-specific and idealized IVC geometries (2017)
     i18n: company_b
   authors:
-    detail: Aycock, K. I., Campbell, R. L., Lynch, F. C., Manning, K. B., Craven, B. A.
+    detail: "<b>Aycock, K. I.</b>, Campbell, R. L., Lynch, F. C., Manning, K. B., Craven, B. A."
     i18n: company_b_authors
   issue:
-    detail: Biomech Model Mechanobiol. 16(6), 1957-1969.
+    detail: "<i>Biomech Model Mechanobiol.</i> 16(6), 1957-1969."
     i18n: company_b_issue
   impactFactor:
-    detail: Impact Factor&#58; 3.13
+    detail: "Impact Factor: 3.13"
     i18n: company_b_impactFactor
   icon: fa-file-pdf-o
 
@@ -32,13 +32,13 @@
     detail: A Resolved Two-Way Coupled CFD/6DOF Approach for Predicting Embolus Transport and the Embolus-Trapping Efficiency of IVC Filters (2017)
     i18n: company_c
   authors:
-    detail: Aycock, K. I., Campbell, R. L., Lynch, F. C., Manning, K. B., and Craven, B. A.
+    detail: "<b>Aycock, K. I.</b>, Campbell, R. L., Lynch, F. C., Manning, K. B., and Craven, B. A."
     i18n: company_c_authors
   issue:
-    detail: Biomech Model Mechanobiol. 16(3)&#58;851—869
+    detail: "<i>Biomech Model Mechanobiol.</i> 16(3):851—869"
     i18n: company_b_issue
   impactFactor:
-    detail: Impact Factor&#58; 3.13
+    detail: "Impact Factor: 3.13"
     i18n: company_c_impactFactor
   icon: fa-file-pdf-o
 
@@ -46,13 +46,13 @@
     detail: FDA Benchmark Medical Device Flow Models for CFD Validation (2017)
     i18n: company_c
   authors:
-    detail: Malinauskas, R. A., Hariharan, P., Day, S. M., Herbertson, L. H., Büsen, M. R., Steinseifer, U. Good, B. G., Deutsch, S. Aycock, K. I., Manning, K. B., Craven, B. A.
+    detail: "Malinauskas, R. A., Hariharan, P., Day, S. M., Herbertson, L. H., Büsen, M. R., Steinseifer, U. Good, B. G., Deutsch, S. <b>Aycock, K. I.</b>, Manning, K. B., Craven, B. A."
     i18n: company_c_authors
   issue:
-    detail: ASAIO J. 63(2)&#58;150—160.
+    detail: "<i>ASAIO J</i>. 63(2):150—160."
     i18n: company_b_issue
   impactFactor:
-    detail: Impact Factor&#58; 2.19
+    detail: "Impact Factor: 2.19"
     i18n: company_c_impactFactor
   icon: fa-file-pdf-o
 
@@ -60,13 +60,13 @@
     detail: The Importance of Hemorheology and Patient Anatomy on the Hemodynamics in the Inferior Vena Cava (2016)
     i18n: company_c
   authors:
-    detail: Aycock, K. I., Campbell, R. L., Lynch, F. C., Manning, K. B., and Craven, B. A.
+    detail: "<b>Aycock, K. I.</b>, Campbell, R. L., Lynch, F. C., Manning, K. B., and Craven, B. A."
     i18n: company_c_authors
   issue:
-    detail: Annal Biomed Eng}. 44(12)&#58;3568—4582
+    detail: "<i>Annal Biomed Eng</i>. 44(12):3568—4582"
     i18n: company_b_issue
   impactFactor:
-    detail: Impact Factor&#58; 3.22
+    detail: "Impact Factor: 3.22"
     i18n: company_c_impactFactor
   icon: fa-file-pdf-o
 
@@ -74,13 +74,13 @@
     detail: A Computational Method for Predicting Inferior Vena Cava Filter Performance on a Patient-Specific Basis (2014)
     i18n: company_c
   authors:
-    detail: Aycock, K. I., Sastry, S. P., Kim, J., Shontz, S. M., Campbell, R. L., Lynch, F. C., Manning, K. B., and Craven, B. A.
+    detail: "<b>Aycock, K. I.</b>, Sastry, S. P., Kim, J., Shontz, S. M., Campbell, R. L., Lynch, F. C., Manning, K. B., and Craven, B. A."
     i18n: company_c_authors
   issue:
-    detail: J Biomech Eng}. 136(8). Erratum, October 2015;137(11)
+    detail: "<i>J Biomech Eng</i>. 136(8). Erratum, October 2015;137(11)"
     i18n: company_b_issue
   impactFactor:
-    detail: Impact Factor&#58; 2.06
+    detail: "Impact Factor: 2.06"
     i18n: company_c_impactFactor
   icon: fa-file-pdf-o
 
