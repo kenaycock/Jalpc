@@ -3,6 +3,7 @@
 - name:
     detail: Particle image velocimetry measurements in an anatomical vascular model fabricated using inkjet 3D printing (2017)
     i18n: company_a
+  year: 2017
   authors:
     detail: "<b>Aycock, K. I.</b>, Hariharan, P., and Craven, B. A."
     i18n: company_a_authors
@@ -18,6 +19,7 @@
 - name:
     detail: Computational predictions of the embolus-trapping performance of an IVC filter in patient-specific and idealized IVC geometries (2017)
     i18n: company_b
+  year: 2017
   authors:
     detail: "<b>Aycock, K. I.</b>, Campbell, R. L., Lynch, F. C., Manning, K. B., Craven, B. A."
     i18n: company_b_authors
@@ -33,6 +35,7 @@
 - name:
     detail: A Resolved Two-Way Coupled CFD/6DOF Approach for Predicting Embolus Transport and the Embolus-Trapping Efficiency of IVC Filters (2017)
     i18n: company_c
+  year: 2017
   authors:
     detail: "<b>Aycock, K. I.</b>, Campbell, R. L., Lynch, F. C., Manning, K. B., and Craven, B. A."
     i18n: company_c_authors
@@ -48,6 +51,7 @@
 - name:
     detail: FDA Benchmark Medical Device Flow Models for CFD Validation (2017)
     i18n: company_c
+  year: 2017
   authors:
     detail: "Malinauskas, R. A., Hariharan, P., Day, S. M., Herbertson, L. H., Büsen, M. R., Steinseifer, U. Good, B. G., Deutsch, S. <b>Aycock, K. I.</b>, Manning, K. B., Craven, B. A."
     i18n: company_c_authors
@@ -63,6 +67,7 @@
 - name:
     detail: The Importance of Hemorheology and Patient Anatomy on the Hemodynamics in the Inferior Vena Cava (2016)
     i18n: company_c
+  year: 2016
   authors:
     detail: "<b>Aycock, K. I.</b>, Campbell, R. L., Lynch, F. C., Manning, K. B., and Craven, B. A."
     i18n: company_c_authors
@@ -78,6 +83,7 @@
 - name:
     detail: A Computational Method for Predicting Inferior Vena Cava Filter Performance on a Patient-Specific Basis (2014)
     i18n: company_c
+  year: 2014
   authors:
     detail: "<b>Aycock, K. I.</b>, Sastry, S. P., Kim, J., Shontz, S. M., Campbell, R. L., Lynch, F. C., Manning, K. B., and Craven, B. A."
     i18n: company_c_authors

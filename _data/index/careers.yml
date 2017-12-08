@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: US Food and Drug Administration (ORAU)
+    detail: US Food and Drug Administration
     i18n: company_a
   desc:
     detail: CDRH Office of Science and Engineering Laboratories, Division of Applied Mechanics
