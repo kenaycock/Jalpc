@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Kenneth Aycock, Ph. D.
+title: Kenneth Aycock
 description: Kenneth's blog, built using Jekyll and github pages (Jalpc).
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -13,7 +13,7 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 author:  # change following line to your infomation.
   name: KennethAycock  # Be used at blog posts' author.
   first_name: Kenneth  # Be used at index page about me section.
-  last_name: Aycock  # Be used at index page about me section.
+  last_name: Aycock, Ph.D.  # Be used at index page about me section.
   avatar: /static/assets/img/landing/Ken_Aycock.jpg  # upload your avatar at directory and edit it.
   scholar_username: kenaycock  # Leave blank if you don't have now
   github_username: kenaycock  # Leave blank if you don't have now
