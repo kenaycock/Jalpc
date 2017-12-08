@@ -1,43 +1,86 @@
 # publications section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Particle image velocimetry measurements in an anatomical vascular model fabricated using inkjet 3D printing
+    detail: Particle image velocimetry measurements in an anatomical vascular model fabricated using inkjet 3D printing (2017)
     i18n: company_a
-  desc:
+  authors:
     detail: Aycock, K. I., Hariharan, P., and Craven, B. A.
-    i18n: company_a_desc
-  date:
-    detail: (2017) Exp Fluids. 58(154).
-    i18n: company_a_date
-  job:
+    i18n: company_a_authors
+  issue:
+    detail: Exp Fluids. 58(154).
+    i18n: company_a_issue
+  impactFactor:
     detail: Impact Factor&#58; 1.83 
-    i18n: company_a_job
+    i18n: company_a_impactFactor
   icon: fa-file-pdf-o
 
 - name:
-    detail: Computational predictions of the embolus-trapping performance of an IVC filter in patient-specific and idealized IVC geometries
+    detail: Computational predictions of the embolus-trapping performance of an IVC filter in patient-specific and idealized IVC geometries (2017)
     i18n: company_b
-  desc:
-    detail: Biomech Model Mechanobiol. 16(3)&#58;851—869
-    i18n: company_b_desc
-  date:
-    detail: 2017
-    i18n: company_b_date
-  job:
+  authors:
+    detail: Aycock, K. I., Campbell, R. L., Lynch, F. C., Manning, K. B., Craven, B. A.
+    i18n: company_b_authors
+  issue:
+    detail: Biomech Model Mechanobiol. 16(6), 1957-1969.
+    i18n: company_b_issue
+  impactFactor:
     detail: Impact Factor&#58; 3.13
-    i18n: company_b_job
+    i18n: company_b_impactFactor
   icon: fa-file-pdf-o
 
 - name:
-    detail: Idaho National Laboratory
+    detail: A Resolved Two-Way Coupled CFD/6DOF Approach for Predicting Embolus Transport and the Embolus-Trapping Efficiency of IVC Filters (2017)
     i18n: company_c
-  desc:
-    detail: Bioenergy Research Program
-    i18n: company_c_desc
-  date:
-    detail: May—Aug. 2011 & 2012
-    i18n: company_b_date
-  job:
-    detail: Summer Engineering Intern
-    i18n: company_c_job
+  authors:
+    detail: Aycock, K. I., Campbell, R. L., Lynch, F. C., Manning, K. B., and Craven, B. A.
+    i18n: company_c_authors
+  issue:
+    detail: Biomech Model Mechanobiol. 16(3)&#58;851—869
+    i18n: company_b_issue
+  impactFactor:
+    detail: Impact Factor&#58; 3.13
+    i18n: company_c_impactFactor
   icon: fa-file-pdf-o
+
+- name:
+    detail: FDA Benchmark Medical Device Flow Models for CFD Validation (2017)
+    i18n: company_c
+  authors:
+    detail: Malinauskas, R. A., Hariharan, P., Day, S. M., Herbertson, L. H., Büsen, M. R., Steinseifer, U. Good, B. G., Deutsch, S. Aycock, K. I., Manning, K. B., Craven, B. A.
+    i18n: company_c_authors
+  issue:
+    detail: ASAIO J. 63(2)&#58;150—160.
+    i18n: company_b_issue
+  impactFactor:
+    detail: Impact Factor&#58; 2.19
+    i18n: company_c_impactFactor
+  icon: fa-file-pdf-o
+
+- name:
+    detail: The Importance of Hemorheology and Patient Anatomy on the Hemodynamics in the Inferior Vena Cava (2016)
+    i18n: company_c
+  authors:
+    detail: Aycock, K. I., Campbell, R. L., Lynch, F. C., Manning, K. B., and Craven, B. A.
+    i18n: company_c_authors
+  issue:
+    detail: Annal Biomed Eng}. 44(12)&#58;3568—4582
+    i18n: company_b_issue
+  impactFactor:
+    detail: Impact Factor&#58; 3.22
+    i18n: company_c_impactFactor
+  icon: fa-file-pdf-o
+
+- name:
+    detail: A Computational Method for Predicting Inferior Vena Cava Filter Performance on a Patient-Specific Basis (2014)
+    i18n: company_c
+  authors:
+    detail: Aycock, K. I., Sastry, S. P., Kim, J., Shontz, S. M., Campbell, R. L., Lynch, F. C., Manning, K. B., and Craven, B. A.
+    i18n: company_c_authors
+  issue:
+    detail: J Biomech Eng}. 136(8). Erratum, October 2015;137(11)
+    i18n: company_b_issue
+  impactFactor:
+    detail: Impact Factor&#58; 2.06
+    i18n: company_c_impactFactor
+  icon: fa-file-pdf-o
+

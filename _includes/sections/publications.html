@@ -16,9 +16,9 @@
                     </div>
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpLeft {% else %} rotateInUpLeft {% endif %}">
                         <h2><span data-i18n="publications.{{ publications.name.i18n }}">{{ publications.name.detail }}</span></h2>
-                        <p><span data-i18n="publications.{{ publications.desc.i18n }}">{{ publications.desc.detail }} </span></p>
-                        <span class="vertical-date"><span data-i18n="publications.{{ publications.date.i18n }}"> {{ publications.date.detail }} </span>
-                        <br/> <small><span data-i18n="publications.{{ publications.job.i18n }}">{{ publications.job.detail }}</span></small> </span>
+                        <p><span data-i18n="publications.{{ publications.authors.i18n }}">{{ publications.authors.detail }} </span></p>
+                        <span class="vertical-issue"><span data-i18n="publications.{{ publications.issue.i18n }}"> {{ publications.issue.detail }} </span>
+                        <br/> <small><span data-i18n="publications.{{ publications.impactFactor.i18n }}">{{ publications.impactFactor.detail }}</span></small> </span>
                     </div>
                 </div>
             {% endfor %}
