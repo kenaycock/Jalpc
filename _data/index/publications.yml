@@ -1,7 +1,7 @@
 # publications section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Particle image velocimetry measurements in an anatomical vascular model fabricated using inkjet 3D printing (2017)
+    detail: Particle image velocimetry measurements in an anatomical vascular model fabricated using inkjet 3D printing
     i18n: company_a
   year: 2017
   authors:
@@ -17,7 +17,7 @@
   doi: "http://dx.doi.org/10.1007/s00348-017-2403-1"
 
 - name:
-    detail: Computational predictions of the embolus-trapping performance of an IVC filter in patient-specific and idealized IVC geometries (2017)
+    detail: Computational predictions of the embolus-trapping performance of an IVC filter in patient-specific and idealized IVC geometries
     i18n: company_b
   year: 2017
   authors:
@@ -33,7 +33,7 @@
   doi: "http://dx.doi.org/10.1007/s10237-017-0931-5"
 
 - name:
-    detail: A Resolved Two-Way Coupled CFD/6DOF Approach for Predicting Embolus Transport and the Embolus-Trapping Efficiency of IVC Filters (2017)
+    detail: A Resolved Two-Way Coupled CFD/6DOF Approach for Predicting Embolus Transport and the Embolus-Trapping Efficiency of IVC Filters
     i18n: company_c
   year: 2017
   authors:
@@ -49,7 +49,7 @@
   doi: "http://dx.doi.org/10.1007/s10237-016-0857-3"
 
 - name:
-    detail: FDA Benchmark Medical Device Flow Models for CFD Validation (2017)
+    detail: FDA Benchmark Medical Device Flow Models for CFD Validation
     i18n: company_c
   year: 2017
   authors:
@@ -65,7 +65,7 @@
   doi: "http://dx.doi.org/10.1097/MAT.0000000000000499"
 
 - name:
-    detail: The Importance of Hemorheology and Patient Anatomy on the Hemodynamics in the Inferior Vena Cava (2016)
+    detail: The Importance of Hemorheology and Patient Anatomy on the Hemodynamics in the Inferior Vena Cava
     i18n: company_c
   year: 2016
   authors:
@@ -81,7 +81,7 @@
   doi: "http://dx.doi.org/10.1007/s10439-016-1663-x"
 
 - name:
-    detail: A Computational Method for Predicting Inferior Vena Cava Filter Performance on a Patient-Specific Basis (2014)
+    detail: A Computational Method for Predicting Inferior Vena Cava Filter Performance on a Patient-Specific Basis
     i18n: company_c
   year: 2014
   authors:
