@@ -10,7 +10,7 @@
     detail: Exp Fluids. 58(154).
     i18n: company_a_issue
   impactFactor:
-    detail: Impact Factor&#58; 1.83 
+    detail: "Impact Factor: 1.83"
     i18n: company_a_impactFactor
   icon: fa-file-pdf-o
 
