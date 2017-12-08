@@ -7,7 +7,7 @@
     detail: Aycock, K. I., Hariharan, P., and Craven, B. A.
     i18n: company_a_authors
   issue:
-    detail: Exp Fluids. 58(154).
+    detail: "<i>Exp Fluids.</i> 58(154)."
     i18n: company_a_issue
   impactFactor:
     detail: "Impact Factor: 1.83"
