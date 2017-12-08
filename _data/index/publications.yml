@@ -12,7 +12,7 @@
   job:
     detail: ORISE Fellow
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-file-pdf-o
 
 - name:
     detail: Penn State Applied Research Lab & Artificial Heart Lab
@@ -26,7 +26,7 @@
   job:
     detail: Graduate Research Assistant
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-file-pdf-o
 
 - name:
     detail: Idaho National Laboratory
@@ -40,4 +40,4 @@
   job:
     detail: Summer Engineering Intern
     i18n: company_c_job
-  icon: fa-plus-square
+  icon: fa-file-pdf-o
