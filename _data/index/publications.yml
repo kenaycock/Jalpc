@@ -1,16 +1,16 @@
 # publications section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: US Food and Drug Administration (ORAU)
+    detail: Particle image velocimetry measurements in an anatomical vascular model fabricated using inkjet 3D printing
     i18n: company_a
   desc:
-    detail: CDRH Office of Science and Engineering Laboratories, Division of Applied Mechanics
+    detail: Exp Fluids. 58(154).
     i18n: company_a_desc
   date:
-    detail: Oct. 2016—Present
+    detail: (2017)
     i18n: company_a_date
   job:
-    detail: ORISE Fellow
+    detail: Impact Factor: 1.83 
     i18n: company_a_job
   icon: fa-file-pdf-o
 
