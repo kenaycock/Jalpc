@@ -15,7 +15,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Penn State Applied Research Lab & Artificial Heart Lab
+    detail: "Penn State Applied Research Lab <br>& Artificial Heart Lab"
     i18n: company_b
   desc:
     detail: Solid and fluid mechanics research
