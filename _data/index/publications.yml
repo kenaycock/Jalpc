@@ -13,6 +13,7 @@
     detail: "Impact Factor: 1.83"
     i18n: company_a_impactFactor
   icon: fa-file-pdf-o
+  doi: "http://dx.doi.org/10.1007/s00348-017-2403-1"
 
 - name:
     detail: Computational predictions of the embolus-trapping performance of an IVC filter in patient-specific and idealized IVC geometries (2017)
@@ -27,6 +28,7 @@
     detail: "Impact Factor: 3.13"
     i18n: company_b_impactFactor
   icon: fa-file-pdf-o
+  doi: "http://dx.doi.org/10.1007/s10237-017-0931-5"
 
 - name:
     detail: A Resolved Two-Way Coupled CFD/6DOF Approach for Predicting Embolus Transport and the Embolus-Trapping Efficiency of IVC Filters (2017)
@@ -41,6 +43,7 @@
     detail: "Impact Factor: 3.13"
     i18n: company_c_impactFactor
   icon: fa-file-pdf-o
+  doi: "http://dx.doi.org/10.1007/s10237-016-0857-3"
 
 - name:
     detail: FDA Benchmark Medical Device Flow Models for CFD Validation (2017)
@@ -55,6 +58,7 @@
     detail: "Impact Factor: 2.19"
     i18n: company_c_impactFactor
   icon: fa-file-pdf-o
+  doi: "http://dx.doi.org/10.1097/MAT.0000000000000499"
 
 - name:
     detail: The Importance of Hemorheology and Patient Anatomy on the Hemodynamics in the Inferior Vena Cava (2016)
@@ -69,6 +73,7 @@
     detail: "Impact Factor: 3.22"
     i18n: company_c_impactFactor
   icon: fa-file-pdf-o
+  doi: "http://dx.doi.org/10.1007/s10439-016-1663-x"
 
 - name:
     detail: A Computational Method for Predicting Inferior Vena Cava Filter Performance on a Patient-Specific Basis (2014)
@@ -83,4 +88,5 @@
     detail: "Impact Factor: 2.06"
     i18n: company_c_impactFactor
   icon: fa-file-pdf-o
+  doi: "http://dx.doi.org/10.1115/1.4027612"
 
