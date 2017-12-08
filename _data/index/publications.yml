@@ -4,27 +4,27 @@
     detail: Particle image velocimetry measurements in an anatomical vascular model fabricated using inkjet 3D printing
     i18n: company_a
   desc:
-    detail: Exp Fluids. 58(154).
+    detail: Aycock, K. I., Hariharan, P., and Craven, B. A.
     i18n: company_a_desc
   date:
-    detail: (2017)
+    detail: (2017) Exp Fluids. 58(154).
     i18n: company_a_date
   job:
-    detail: Impact Factor: 1.83 
+    detail: Impact Factor\: 1.83 
     i18n: company_a_job
   icon: fa-file-pdf-o
 
 - name:
-    detail: Penn State Applied Research Lab & Artificial Heart Lab
+    detail: Computational predictions of the embolus-trapping performance of an IVC filter in patient-specific and idealized IVC geometries
     i18n: company_b
   desc:
-    detail: Solid and fluid mechanics research
+    detail: Biomech Model Mechanobiol. 16(3)\:851—869
     i18n: company_b_desc
   date:
-    detail: Aug. 2012—Sep. 2016
+    detail: 2017
     i18n: company_b_date
   job:
-    detail: Graduate Research Assistant
+    detail: Impact Factor\: 3.13
     i18n: company_b_job
   icon: fa-file-pdf-o
 
