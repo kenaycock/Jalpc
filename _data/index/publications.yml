@@ -1,0 +1,43 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: US Food and Drug Administration (ORAU)
+    i18n: company_a
+  desc:
+    detail: CDRH Office of Science and Engineering Laboratories, Division of Applied Mechanics
+    i18n: company_a_desc
+  date:
+    detail: Oct. 2016—Present
+    i18n: company_a_date
+  job:
+    detail: ORISE Fellow
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Penn State Applied Research Lab & Artificial Heart Lab
+    i18n: company_b
+  desc:
+    detail: Solid and fluid mechanics research
+    i18n: company_b_desc
+  date:
+    detail: Aug. 2012—Sep. 2016
+    i18n: company_b_date
+  job:
+    detail: Graduate Research Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Idaho National Laboratory
+    i18n: company_c
+  desc:
+    detail: Bioenergy Research Program
+    i18n: company_c_desc
+  date:
+    detail: May—Aug. 2011 & 2012
+    i18n: company_b_date
+  job:
+    detail: Summer Engineering Intern
+    i18n: company_c_job
+  icon: fa-plus-square
