@@ -18,7 +18,7 @@
     detail: "Penn State Applied Research Lab <br>& Artificial Heart Lab"
     i18n: company_b
   desc:
-    detail: Solid and fluid mechanics research
+    detail: Solid and fluid mechanics research, including nonlinear materials (i.e., shear-thinning blood, hyperelastic blood vessel wall, and superelastic nitinol); Monte Carlo method for predicting medical device clot-trapping performance; Immersed boundary CFD/6-DoF
     i18n: company_b_desc
   date:
     detail: Aug. 2012—Sep. 2016
