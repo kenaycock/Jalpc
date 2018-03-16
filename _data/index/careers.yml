@@ -4,10 +4,24 @@
     detail: US Food and Drug Administration
     i18n: company_a
   desc:
+    detail: Continuing VVUQ work and developing an end-to-end example following principles of ASME V&V10, V&V20, and V&V40 and FDA guidance documents
+    i18n: company_a_desc
+  date:
+    detail: Feb. 2018—Present
+    i18n: company_a_date
+  job:
+    detail: Staff Fellow Mechanical Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: US Food and Drug Administration
+    i18n: company_a
+  desc:
     detail: Verification and validation of physics-based computational models drawing upon principles of ASME V&V10, V&V20, and V&V40
     i18n: company_a_desc
   date:
-    detail: Oct. 2016—Present
+    detail: Oct. 2016—Feb. 2018
     i18n: company_a_date
   job:
     detail: ORISE Fellow
