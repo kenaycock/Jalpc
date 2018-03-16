@@ -1,6 +1,22 @@
 # publications section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: An experimental and computational study of the inferior vena cava hemodynamics under respiratory-induced collapse of the infrarenal IVC
+    i18n: company_a
+  year: 2017
+  authors:
+    detail: "Tedaldi, E., Montanari, C., <b>Aycock, K. I.</b>, Sturla, F., Redaelli, A., Manning, K. B."
+    i18n: company_a_authors
+  issue:
+    detail: "<i>Med Eng Phys.</i> S1350-4533(18)30030-4."
+    i18n: company_a_issue
+  impactFactor:
+    detail: "Impact Factor: 1.82"
+    i18n: company_a_impactFactor
+  icon: fa-file-pdf-o
+  doi: "http://dx.doi.org/10.1016/j.medengphy.2018.02.003"
+
+- name:
     detail: Particle image velocimetry measurements in an anatomical vascular model fabricated using inkjet 3D printing
     i18n: company_a
   year: 2017
