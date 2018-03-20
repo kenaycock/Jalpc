@@ -5,7 +5,7 @@
     i18n: company_a
   year: 2018
   authors:
-    detail: "Tedaldi, E., Montanari, C., <b>Aycock, K. I.</b>, Sturla, F., Redaelli, A., Manning, K. B."
+    detail: "Tedaldi, E., Montanari, C., <b>Aycock, K. I.</b>, Sturla, F., Redaelli, A., and Manning, K. B."
     i18n: company_a_authors
   issue:
     detail: "<i>Med Eng Phys.</i> 54, 44-55."
