@@ -1,7 +1,7 @@
 # publications section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Steady Flow in a Patient-Averaged Inferior Vena Cava—Part II: Computational Fluid Dynamics Verification and Validation
+    detail: Steady Flow in a Patient-Averaged Inferior Vena Cava—Part II&#58; Computational Fluid Dynamics Verification and Validation
     i18n: company_a
   year: 2018
   authors:
@@ -17,7 +17,7 @@
   doi: "https://doi.org/10.1007/s13239-018-00392-0"
   
 - name:
-    detail: Steady Flow in a Patient-Averaged Inferior Vena Cava—Part I: Particle Image Velocimetry Measurements at Rest and Exercise Conditions.
+    detail: Steady Flow in a Patient-Averaged Inferior Vena Cava—Part I&#58; Particle Image Velocimetry Measurements at Rest and Exercise Conditions.
     i18n: company_a
   year: 2018
   authors:
