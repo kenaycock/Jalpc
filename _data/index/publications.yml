@@ -1,7 +1,56 @@
 # publications section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: An experimental and computational study of the inferior vena cava hemodynamics under respiratory-induced collapse of the infrarenal IVC
+    detail: Steady Flow in a Patient-Averaged Inferior Vena Cava—Part II: Computational Fluid Dynamics Verification and Validation
+    i18n: company_a
+  year: 2018
+  authors:
+    detail: "Craven, B. A., <b>Aycock, K. I.</b>, Manning, K. B."
+    i18n: company_a_authors
+  issue:
+    detail: "<i>Cardiovasc Eng Tecnol.</i> 9(4), 654-653."
+    i18n: company_a_issue
+  impactFactor:
+    detail: "Impact Factor: 1.45"
+    i18n: company_a_impactFactor
+  icon: fa-file-pdf-o
+  doi: "https://doi.org/10.1007/s13239-018-00392-0"
+  
+- name:
+    detail: Steady Flow in a Patient-Averaged Inferior Vena Cava—Part I: Particle Image Velocimetry Measurements at Rest and Exercise Conditions.
+    i18n: company_a
+  year: 2018
+  authors:
+    detail: "Gallagher, M., <b>Aycock, K. I.</b>, Craven, B. A., Manning, K. B."
+    i18n: company_a_authors
+  issue:
+    detail: "<i>Cardiovasc Eng Tecnol.</i> 9(4), 641-653."
+    i18n: company_a_issue
+  impactFactor:
+    detail: "Impact Factor: 1.45"
+    i18n: company_a_impactFactor
+  icon: fa-file-pdf-o
+  doi: "https://doi.org/10.1007/s13239-018-00390-2"
+  
+- name:
+    detail: Inter-laboratory Characterization of the Velocity Field in the FDA Blood Pump Model using Particle Image Velocimetry (PIV)
+    i18n: company_a
+  year: 2018
+  authors:
+    detail: "Hariharan, P., <b>Aycock, K. I.</b>, Busen, M. R., Day, S.W., Good, B. C., Herbertson, L. H., Steinseifer, U., Manning,
+K. B., Craven, B. A., Malinauskas, R. A."
+    i18n: company_a_authors
+  issue:
+    detail: "<i>Cardiovasc Eng Tecnol.</i> 9(4), 623-640."
+    i18n: company_a_issue
+  impactFactor:
+    detail: "Impact Factor: 1.45"
+    i18n: company_a_impactFactor
+  icon: fa-file-pdf-o
+  doi: "https://doi.org/10.1007/s13239-018-00378-y"
+
+- name:
+    detail: An Experimental and Computational Study of the Inferior Vena Cava Hemodynamics under Respiratory-Induced Collapse of the Infrarenal IVC
     i18n: company_a
   year: 2018
   authors:
@@ -17,7 +66,7 @@
   doi: "http://dx.doi.org/10.1016/j.medengphy.2018.02.003"
 
 - name:
-    detail: Particle image velocimetry measurements in an anatomical vascular model fabricated using inkjet 3D printing
+    detail: Particle Image Velocimetry Measurements in an Anatomical Vascular Model Fabricated using Inkjet 3D Printing
     i18n: company_a
   year: 2017
   authors:
