@@ -8,7 +8,7 @@
     detail: "Craven, B. A., <b>Aycock, K. I.</b>, Manning, K. B."
     i18n: company_a_authors
   issue:
-    detail: "<i>Cardiovasc Eng Tecnol.</i> 9(4), 654-653."
+    detail: "<i>Cardiovasc Eng Tecnol.</i> 9(4):654-653."
     i18n: company_a_issue
   impactFactor:
     detail: "Impact Factor: 1.45"
@@ -24,7 +24,7 @@
     detail: "Gallagher, M. B.<sup>*</sup>, <b>Aycock, K. I.</b><sup>*</sup>, Craven, B. A., Manning, K. B.<br><sup><sup>*</sup>M. B. Gallagher and K. I. Aycock contributed equally to this work.</sup>"
     i18n: company_a_authors
   issue:
-    detail: "<i>Cardiovasc Eng Tecnol.</i> 9(4), 641-653."
+    detail: "<i>Cardiovasc Eng Tecnol.</i> 9(4):641-653."
     i18n: company_a_issue
   impactFactor:
     detail: "Impact Factor: 1.45"
@@ -41,7 +41,7 @@
 K. B., Craven, B. A., Malinauskas, R. A."
     i18n: company_a_authors
   issue:
-    detail: "<i>Cardiovasc Eng Tecnol.</i> 9(4), 623-640."
+    detail: "<i>Cardiovasc Eng Tecnol.</i> 9(4):623-640."
     i18n: company_a_issue
   impactFactor:
     detail: "Impact Factor: 1.45"
@@ -57,7 +57,7 @@ K. B., Craven, B. A., Malinauskas, R. A."
     detail: "Tedaldi, E., Montanari, C., <b>Aycock, K. I.</b>, Sturla, F., Redaelli, A., and Manning, K. B."
     i18n: company_a_authors
   issue:
-    detail: "<i>Med Eng Phys.</i> 54, 44-55."
+    detail: "<i>Med Eng Phys.</i> 54:44-55."
     i18n: company_a_issue
   impactFactor:
     detail: "Impact Factor: 1.82"
@@ -89,7 +89,7 @@ K. B., Craven, B. A., Malinauskas, R. A."
     detail: "<b>Aycock, K. I.</b>, Campbell, R. L., Lynch, F. C., Manning, K. B., and Craven, B. A."
     i18n: company_b_authors
   issue:
-    detail: "<i>Biomech Model Mechanobiol.</i> 16(6), 1957-1969."
+    detail: "<i>Biomech Model Mechanobiol.</i> 16(6):1957-1969."
     i18n: company_b_issue
   impactFactor:
     detail: "Impact Factor: 3.13"
@@ -105,7 +105,7 @@ K. B., Craven, B. A., Malinauskas, R. A."
     detail: "<b>Aycock, K. I.</b>, Campbell, R. L., Manning, K. B., and Craven, B. A."
     i18n: company_c_authors
   issue:
-    detail: "<i>Biomech Model Mechanobiol.</i> 16(3):851—869"
+    detail: "<i>Biomech Model Mechanobiol.</i> 16(3):851-869"
     i18n: company_b_issue
   impactFactor:
     detail: "Impact Factor: 3.13"
@@ -121,7 +121,7 @@ K. B., Craven, B. A., Malinauskas, R. A."
     detail: "Malinauskas, R. A., Hariharan, P., Day, S. M., Herbertson, L. H., Büsen, M. R., Steinseifer, U., <b>Aycock, K. I.</b>, Good, B. C., Deutsch, S., Manning, K. B., and Craven, B. A."
     i18n: company_c_authors
   issue:
-    detail: "<i>ASAIO J</i>. 63(2):150—160."
+    detail: "<i>ASAIO J</i>. 63(2):150-160."
     i18n: company_b_issue
   impactFactor:
     detail: "Impact Factor: 2.19"
@@ -137,7 +137,7 @@ K. B., Craven, B. A., Malinauskas, R. A."
     detail: "<b>Aycock, K. I.</b>, Campbell, R. L., Lynch, F. C., Manning, K. B., and Craven, B. A."
     i18n: company_c_authors
   issue:
-    detail: "<i>Annal Biomed Eng</i>. 44(12):3568—4582"
+    detail: "<i>Annal Biomed Eng</i>. 44(12):3568-4582"
     i18n: company_b_issue
   impactFactor:
     detail: "Impact Factor: 3.22"
