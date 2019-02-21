@@ -21,10 +21,10 @@
     i18n: company_a
   year: 2018
   authors:
-    detail: "Gallagher, M. B.<sup>*</sup>, <b>Aycock, K. I.</b><sup>*</sup>, Craven, B. A., Manning, K. B."
+    detail: "Gallagher, M. B.<sup>*</sup>, <b>Aycock, K. I.</b><sup>*</sup>, Craven, B. A., Manning, K. B.<br><sup><sup>*</sup>M. B. Gallagher and K. I. Aycock contributed equally to this work.</sup>"
     i18n: company_a_authors
   issue:
-    detail: "<i>Cardiovasc Eng Tecnol.</i> 9(4), 641-653. <sup><sup>*</sup>M. B. Gallagher and K. I. Aycock contributed equally to this work.</sup>"
+    detail: "<i>Cardiovasc Eng Tecnol.</i> 9(4), 641-653."
     i18n: company_a_issue
   impactFactor:
     detail: "Impact Factor: 1.45"
