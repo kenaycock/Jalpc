@@ -1,6 +1,22 @@
 # publications section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: A CFD-Based Kriging Surrogate Modeling Approach for Predicting Device-Specific Hemolysis Power Law Coefficients in Blood-Contacting Medical Devices
+    i18n: company_a
+  year: 2019
+  authors:
+    detail: "Craven, B. A., <b>Aycock, K. I.</b>, Herbertson, L. H., Malinauskas, R. A."
+    i18n: company_a_authors
+  issue:
+    detail: "<i>Biomech Model Mechanobiol.</i>"
+    i18n: company_a_issue
+  impactFactor:
+    detail: "Impact Factor: 3.13"
+    i18n: company_a_impactFactor
+  icon: fa-file-pdf-o
+  doi: "https://doi.org/10.1007/s10237-019-01126-4"
+  
+- name:
     detail: Steady Flow in a Patient-Averaged Inferior Vena Cava—Part II&#58; Computational Fluid Dynamics Verification and Validation
     i18n: company_a
   year: 2018
