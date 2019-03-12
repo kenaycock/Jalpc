@@ -24,7 +24,7 @@
     detail: "Craven, B. A., <b>Aycock, K. I.</b>, Manning, K. B."
     i18n: company_a_authors
   issue:
-    detail: "<i>Cardiovasc Eng Tecnol.</i> 9(4):654-653."
+    detail: "<i>Cardiovasc Eng Technol.</i> 9(4):654-653."
     i18n: company_a_issue
   impactFactor:
     detail: "Impact Factor: 1.45"
@@ -40,7 +40,7 @@
     detail: "Gallagher, M. B.<sup>*</sup>, <b>Aycock, K. I.</b><sup>*</sup>, Craven, B. A., Manning, K. B.<br><sup><sup>*</sup>M. B. Gallagher and K. I. Aycock contributed equally to this work.</sup>"
     i18n: company_a_authors
   issue:
-    detail: "<i>Cardiovasc Eng Tecnol.</i> 9(4):641-653."
+    detail: "<i>Cardiovasc Eng Technol.</i> 9(4):641-653."
     i18n: company_a_issue
   impactFactor:
     detail: "Impact Factor: 1.45"
@@ -57,7 +57,7 @@
 K. B., Craven, B. A., Malinauskas, R. A."
     i18n: company_a_authors
   issue:
-    detail: "<i>Cardiovasc Eng Tecnol.</i> 9(4):623-640."
+    detail: "<i>Cardiovasc Eng Technol.</i> 9(4):623-640."
     i18n: company_a_issue
   impactFactor:
     detail: "Impact Factor: 1.45"
