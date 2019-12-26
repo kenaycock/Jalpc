@@ -1,6 +1,22 @@
 # publications section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Method of manufactured solutions code verification of elastostatic solid mechanics problems in a commercial finite element solver
+    i18n: company_a
+  year: 2020
+  authors:
+    detail: "<b>Aycock, K. I.</b>, Rebelo, N., Craven, B. A."
+    i18n: company_a_authors
+  issue:
+    detail: "<i>Comput Struct.</i> 229:106175."
+    i18n: company_a_issue
+  impactFactor:
+    detail: "Impact Factor: 3.354"
+    i18n: company_a_impactFactor
+  icon: fa-file-pdf-o
+  doi: "https://doi.org/10.1016/j.compstruc.2019.106175"
+
+- name:
     detail: A CFD-Based Kriging Surrogate Modeling Approach for Predicting Device-Specific Hemolysis Power Law Coefficients in Blood-Contacting Medical Devices
     i18n: company_a
   year: 2019
@@ -8,7 +24,7 @@
     detail: "Craven, B. A., <b>Aycock, K. I.</b>, Herbertson, L. H., Malinauskas, R. A."
     i18n: company_a_authors
   issue:
-    detail: "<i>Biomech Model Mechanobiol.</i>"
+    detail: "<i>Biomech Model Mechanobiol.</i> 18(4):1005-1030."
     i18n: company_a_issue
   impactFactor:
     detail: "Impact Factor: 3.13"
