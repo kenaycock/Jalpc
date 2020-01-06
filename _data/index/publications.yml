@@ -11,7 +11,7 @@
     detail: "<i>Comput Struct.</i> 229:106175."
     i18n: company_a_issue
   impactFactor:
-    detail: "Impact Factor: 3.354"
+    detail: "Impact Factor: 3.35"
     i18n: company_a_impactFactor
   icon: fa-file-pdf-o
   doi: "https://doi.org/10.1016/j.compstruc.2019.106175"
@@ -27,7 +27,7 @@
     detail: "<i>Biomech Model Mechanobiol.</i> 18(4):1005-1030."
     i18n: company_a_issue
   impactFactor:
-    detail: "Impact Factor: 3.13"
+    detail: "Impact Factor: 3.32"
     i18n: company_a_impactFactor
   icon: fa-file-pdf-o
   doi: "https://doi.org/10.1007/s10237-019-01126-4"
@@ -43,7 +43,7 @@
     detail: "<i>Cardiovasc Eng Technol.</i> 9(4):654-653."
     i18n: company_a_issue
   impactFactor:
-    detail: "Impact Factor: 1.45"
+    detail: "Impact Factor: 1.78"
     i18n: company_a_impactFactor
   icon: fa-file-pdf-o
   doi: "https://doi.org/10.1007/s13239-018-00392-0"
@@ -59,7 +59,7 @@
     detail: "<i>Cardiovasc Eng Technol.</i> 9(4):641-653."
     i18n: company_a_issue
   impactFactor:
-    detail: "Impact Factor: 1.45"
+    detail: "Impact Factor: 1.78"
     i18n: company_a_impactFactor
   icon: fa-file-pdf-o
   doi: "https://doi.org/10.1007/s13239-018-00390-2"
@@ -76,7 +76,7 @@ K. B., Craven, B. A., Malinauskas, R. A."
     detail: "<i>Cardiovasc Eng Technol.</i> 9(4):623-640."
     i18n: company_a_issue
   impactFactor:
-    detail: "Impact Factor: 1.45"
+    detail: "Impact Factor: 1.78"
     i18n: company_a_impactFactor
   icon: fa-file-pdf-o
   doi: "https://doi.org/10.1007/s13239-018-00378-y"
@@ -92,7 +92,7 @@ K. B., Craven, B. A., Malinauskas, R. A."
     detail: "<i>Med Eng Phys.</i> 54:44-55."
     i18n: company_a_issue
   impactFactor:
-    detail: "Impact Factor: 1.82"
+    detail: "Impact Factor: 1.79"
     i18n: company_a_impactFactor
   icon: fa-file-pdf-o
   doi: "http://dx.doi.org/10.1016/j.medengphy.2018.02.003"
@@ -108,7 +108,7 @@ K. B., Craven, B. A., Malinauskas, R. A."
     detail: "<i>Exp Fluids.</i> 58(154)."
     i18n: company_a_issue
   impactFactor:
-    detail: "Impact Factor: 1.83"
+    detail: "Impact Factor: 2.44"
     i18n: company_a_impactFactor
   icon: fa-file-pdf-o
   doi: "http://dx.doi.org/10.1007/s00348-017-2403-1"
@@ -124,7 +124,7 @@ K. B., Craven, B. A., Malinauskas, R. A."
     detail: "<i>Biomech Model Mechanobiol.</i> 16(6):1957-1969."
     i18n: company_b_issue
   impactFactor:
-    detail: "Impact Factor: 3.13"
+    detail: "Impact Factor: 3.32"
     i18n: company_b_impactFactor
   icon: fa-file-pdf-o
   doi: "http://dx.doi.org/10.1007/s10237-017-0931-5"
@@ -140,7 +140,7 @@ K. B., Craven, B. A., Malinauskas, R. A."
     detail: "<i>Biomech Model Mechanobiol.</i> 16(3):851-869"
     i18n: company_b_issue
   impactFactor:
-    detail: "Impact Factor: 3.13"
+    detail: "Impact Factor: 3.32"
     i18n: company_c_impactFactor
   icon: fa-file-pdf-o
   doi: "http://dx.doi.org/10.1007/s10237-016-0857-3"
@@ -156,7 +156,7 @@ K. B., Craven, B. A., Malinauskas, R. A."
     detail: "<i>ASAIO J</i>. 63(2):150-160."
     i18n: company_b_issue
   impactFactor:
-    detail: "Impact Factor: 2.19"
+    detail: "Impact Factor: 2.49"
     i18n: company_c_impactFactor
   icon: fa-file-pdf-o
   doi: "http://dx.doi.org/10.1097/MAT.0000000000000499"
@@ -172,7 +172,7 @@ K. B., Craven, B. A., Malinauskas, R. A."
     detail: "<i>Annal Biomed Eng</i>. 44(12):3568-4582"
     i18n: company_b_issue
   impactFactor:
-    detail: "Impact Factor: 3.22"
+    detail: "Impact Factor: 3.47"
     i18n: company_c_impactFactor
   icon: fa-file-pdf-o
   doi: "http://dx.doi.org/10.1007/s10439-016-1663-x"
@@ -188,7 +188,7 @@ K. B., Craven, B. A., Malinauskas, R. A."
     detail: "<i>J Biomech Eng</i>. 136(8). Erratum, October 2015;137(11)"
     i18n: company_b_issue
   impactFactor:
-    detail: "Impact Factor: 2.06"
+    detail: "Impact Factor: 2.03"
     i18n: company_c_impactFactor
   icon: fa-file-pdf-o
   doi: "http://dx.doi.org/10.1115/1.4027612"
