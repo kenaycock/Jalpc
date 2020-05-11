@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: KennethAycock  # Be used at blog posts' author.
   first_name: Kenneth  # Be used at index page about me section.
   last_name: Aycock, PhD  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/Ken_Aycock.jpg  # upload your avatar at directory and edit it.
+  #avatar: /static/assets/img/landing/Ken_Aycock.jpg  # upload your avatar at directory and edit it.
   scholar_username: IW5o8wQAAAAJ&hl=en  # Leave blank if you don't have now
   github_username:  # Leave blank if you don't have now
   linkedin_id: kenaycock # Leave blank if you don't have now
